@@ -11,9 +11,13 @@ public class App
         int a = 5;
         int b = 6;
         System.out.println( "Hello World!" );
+        extracted(a, b);
+    }
+
+    private static void extracted(int a, int b) {
         System.out.println(a + b);
         System.out.println(a - b);
         System.out.println(a * b);
-        System.out.println(a/b);
+        System.out.println(a / b);
     }
 }
