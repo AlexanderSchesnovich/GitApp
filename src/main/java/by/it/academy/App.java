@@ -13,7 +13,7 @@ public class App
         int c = 7;
         System.out.println( "Hello World!" );
         System.out.println(a + b + c);
-//        System.out.println(a - b);
+        System.out.println(a - b - c);
 //        System.out.println(a/b);
     }
 }
