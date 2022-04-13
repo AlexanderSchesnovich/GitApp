@@ -11,5 +11,6 @@ public class App
         int a = 5;
         int b = 6;
         System.out.println( "Hello World!" );
+        System.out.println(a + b);
     }
 }
