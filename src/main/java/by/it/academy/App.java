@@ -15,9 +15,6 @@ public class App
     }
 
     private static void extracted(int a, int b) {
-        System.out.println(a + b);
-        System.out.println(a - b);
-        System.out.println(a * b);
-        System.out.println(a / b);
+
     }
 }
